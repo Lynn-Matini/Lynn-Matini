@@ -2,7 +2,7 @@
 <div align="center">
   <h1>👋 Hi, I'm Lynn Matini Achando!</h1>
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=AA00FF&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Software+Developer+%7C+Data+Analyst+%7C+Web+Designer" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=AA00FF&center=true&vCenter=true&multiline=true&width=1000&height=70&lines=Software+Developer+%7C+Data+Analyst+%7C+Web+Designer" alt="Typing SVG">
   </p>
 </div>
 
@@ -76,7 +76,7 @@ Created a health emergency app as part of **The Fenties** team.
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">&nbsp;
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">&nbsp;
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">&nbsp;
-    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel">&nbsp;
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=excel&logoColor=white" alt="Microsoft Excel">&nbsp;
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">&nbsp;
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   </p>
