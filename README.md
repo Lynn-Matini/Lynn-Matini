@@ -2,7 +2,7 @@
 <div align="center">
   <h1>👋 Hi, I'm Lynn Matini Achando!</h1>
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=AA00FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Developer+%7C+Data+Enthusiast+%7C+Problem+Solver;Empowering+Innovation+with+Code+and+Creativity" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=3000&pause=500&color=AA00FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Developer+%7C+Data+Enthusiast+%7C+Problem+Solver;Empowering+Innovation+with+Code+and+Creativity" alt="Typing SVG">
   </p>
 </div>
 
