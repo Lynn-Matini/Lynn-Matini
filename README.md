@@ -79,9 +79,9 @@ Created a health emergency app as part of **The Fenties** team.
 <p align="center">
   <a href="https://linkedin.com/in/lynnmatini"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
   <a href="https://github.com/Lynn-Matini/?tab=repositories"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&to=lynnmatini@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&to=lynnmatini@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>  
 
 </p>
 
