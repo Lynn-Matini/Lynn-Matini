@@ -59,7 +59,7 @@ Created a health emergency app as part of **The Fenties** team.
 ### 🎨 Let's Connect
 <p align="center">
   <a href="https://linkedin.com/in/lynnmatini"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
-  <a href="https://github.com/Lynn-Matini"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;
+  <a href="https://github.com/Lynn-Matini/?tab=repositories"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;
   <a href="mailto:lynnmatini@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
@@ -76,7 +76,7 @@ Created a health emergency app as part of **The Fenties** team.
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">&nbsp;
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">&nbsp;
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">&nbsp;
-    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=excel&logoColor=white" alt="Microsoft Excel">&nbsp;
+    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel">&nbsp;
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">&nbsp;
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   </p>
