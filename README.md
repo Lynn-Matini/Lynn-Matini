@@ -30,26 +30,7 @@
 ### 📍 About Me
 🌍 Based in **Nairobi, Kenya**  
 💻 Bachelor of Science in Information Technology - **KCA University** (2020–2024)  
-🎓 Certifications: **Andela React Learning Program (2023), Duke University Data Science Math Skills (2020)**  
-
-✨ **Fun Fact:** I was part of **The Fenties** team that created Rapid-Aid, a mobile app for health emergencies, during the **Technovation Challenge** in 2018!
-
----
-
-### 🚀 Projects
-🌐 **Wema Insurance Management System** (ReactJS, NodeJS, SQL, Bootstrap)  
-Developed a web app to manage claims and policies, saving time wasted in physical queues.  
-
-📱 **Rapid-Aid** (Technovation Challenge)  
-Created a health emergency app as part of **The Fenties** team.
-
----
-
-### 🌟 Skills and Technologies
-- **Frontend Development:** Figma, Angular, ReactJS, JavaScript, HTML/CSS  
-- **Backend & Databases:** NodeJS, SQL Server  
-- **Data Analytics & Visualization:** Microsoft Excel (Pivot Tables, Charts, SUM-IFs), Python  
-- **Other Tools:** Microsoft Office Suite, SSPAS, Data Warehousing & Mining  
+✨ **Fun Fact:** I love cats & purple!
 
 ---
 
