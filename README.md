@@ -36,20 +36,6 @@
 
 ---
 
-### 💼 Work Experience
-**IT Attaché - NSSF BRUCE HOUSE** (Jun–Aug 2024)  
-- Streamlined data analysis by 80% through accurate entry and aggregation of over 300 records.
-- Enhanced employer payroll efficiency, reducing errors and processing time by 80%.
-
-**Frontend Developer Attaché - Smart Applications Group** (May–Jul 2023)  
-- Designed interactive UI components like circular status boxes, improving UX by 10%.  
-- Documented and reported 7 system errors for prompt resolution.
-
-**Data Entry Clerk - Pump Sales Kakamega (Remote)** (Aug 2023–Mar 2024)  
-- Boosted data visualization efficiency by 90% using pivot charts and slicers.
-
----
-
 ### 🚀 Projects
 🌐 **Wema Insurance Management System** (ReactJS, NodeJS, SQL, Bootstrap)  
 Developed a web app to manage claims and policies, saving time wasted in physical queues.  
